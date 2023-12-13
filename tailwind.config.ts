@@ -10,7 +10,7 @@ const config: Config = {
     },
     colors: {
       white: {
-        100: "#FFFFFF",
+        100: "#F0F3F9",
         200: "#F5F5F5",
         300: "#D8D8D8",
       },
